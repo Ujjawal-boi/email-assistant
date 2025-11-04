@@ -64,6 +64,6 @@ npm run dev
 ---
 
 ## Author  
-- Jai Anand
+- Ujjawal Singh
 
 
